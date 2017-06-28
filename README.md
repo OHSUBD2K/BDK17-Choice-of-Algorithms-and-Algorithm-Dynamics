@@ -3,7 +3,6 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
 
 ## Module Number: BDK17
 
@@ -31,13 +30,13 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK17-1.pptx
 
-Unit 1 Audio: BDK17-1.mp3
+Unit 1 Audio: BDK17-1.mp3 - Full lecture, Audio File - Individual Slides
 
 ### Unit 2: Identifier and Transaction Standards
 
 Unit 2 Slides: BDK17-2.pptx
 
-Unit 2 Audio: BDK17-2.mp3
+Unit 2 Audio: BDK17-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Media: BDK17-2\_movie\_AlgorithmComp.mp4, BDK17-2\_movie\_DistanceMeasures.mp4, BDK17-2\_movie\_Noise.mp4, BDK17-2\_movie\_SeedClustering.mp4
 
